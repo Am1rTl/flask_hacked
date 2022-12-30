@@ -13,4 +13,6 @@ Second part is write exploit and start bash command
 
 `"cat flag.txt"` is a bash command. You can write your command.
 
+But you need Flask 1.1.2
+
 Solve this task!
